@@ -1,17 +1,5 @@
-Hi, I'm Miriam! 👋
-I am a software developer passionate about writing clean, efficient, and maintainable code. I enjoy tackling complex technical challenges and building meaningful, high-quality projects from the ground up.
+Hi! 👋 I’m Miriam, a Full-Stack Software Developer 💻 with a strong focus on building clean, scalable web applications. I work with technologies like ASP.NET Core on the backend ⚙️ and React on the frontend ⚛️, and I enjoy designing systems with clear layered architecture and good separation of concerns 🧩.
 
-🛠 Tech Stack
-I thrive on building scalable solutions using modern technologies:
+I’m passionate about solving problems 🧠, learning new technologies 📚, and turning ideas into functional products 🚀. Alongside development, I also have experience in video editing 🎬 and creative tools 🎨, which helps me bring a more visual and user-focused approach to my work.
 
-Languages & Frameworks: JavaScript, Node.js, React, Redux.
-
-Databases: MongoDB.
-
-Tools: Git, VS Code, and professional development workflows.
-
-🚀 Continuous Growth
-I am deeply committed to professional growth. I love diving into new technologies, constantly refining my technical skills, and staying up-to-date with industry best practices to deliver the best possible results. I am always eager to take on new challenges that push my boundaries and expand my capabilities.
-
-📫 Let's Connect
-I’m always open to discussing new projects, technical ideas, or potential collaborations. Feel free to reach out!
+Always curious ✨, always improving 📈, and excited to build meaningful projects 💡.
